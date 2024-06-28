@@ -1,6 +1,5 @@
 Recipes Project
 
-Goals:
-    -Practice using the git workflow 
-    -Create a website with HTML learned so far
-    -Must include images, links, formatted texts (lists etc.)
+A project created to learn the basics of html and css
+
+live link: https://spaceflyy.github.io/odin-recipes/
