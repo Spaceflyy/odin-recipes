@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 50dvw;
+    background-color: rgb(255, 240, 209);
+    margin: 0 auto;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.imgContainer {
+
+    width: min-content;
+    margin: 0 auto;
+}
