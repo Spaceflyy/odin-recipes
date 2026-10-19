@@ -6,7 +6,8 @@ body {
     width: 50dvw;
     background-color: rgb(255, 240, 209);
     margin: 0 auto;
-
+    padding: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 h1 {
@@ -17,4 +18,15 @@ h1 {
 
     width: min-content;
     margin: 0 auto;
+}
+
+.contentContainer {
+    background-color: #FAF9F6;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+.imgIcon {
+    width: 300px;
+    object-fit: contain;
 }
